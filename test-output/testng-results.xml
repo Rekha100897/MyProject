@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50276" started-at="2022-02-02T01:28:43Z" finished-at="2022-02-02T01:29:34Z">
+    <groups>
+      <group name="ST">
+        <method signature="OrgTest.CreateOrgTest()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="CreateOrgTest" class="com.crm.comcast.orgTest.OrgTest"/>
+      </group> <!-- ST -->
+      <group name="RT">
+        <method signature="OrgTest.CreateOrgWithIndustriesTest()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="CreateOrgWithIndustriesTest" class="com.crm.comcast.orgTest.OrgTest"/>
+      </group> <!-- RT -->
+    </groups>
+    <test name="Default test" duration-ms="50276" started-at="2022-02-02T01:28:43Z" finished-at="2022-02-02T01:29:34Z">
+      <class name="com.crm.comcast.orgTest.OrgTest">
+        <test-method status="PASS" signature="cinfigBS()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="cinfigBS" is-config="true" duration-ms="21" started-at="2022-02-02T01:28:43Z" finished-at="2022-02-02T01:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cinfigBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="configBC" is-config="true" duration-ms="11972" started-at="2022-02-02T01:28:43Z" finished-at="2022-02-02T01:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="configBM" is-config="true" duration-ms="3578" started-at="2022-02-02T01:28:55Z" finished-at="2022-02-02T01:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="CreateOrgTest()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="CreateOrgTest" duration-ms="14926" started-at="2022-02-02T01:28:59Z" finished-at="2022-02-02T01:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrgTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="configAM" is-config="true" duration-ms="2296" started-at="2022-02-02T01:29:14Z" finished-at="2022-02-02T01:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="configBM" is-config="true" duration-ms="2651" started-at="2022-02-02T01:29:16Z" finished-at="2022-02-02T01:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="CreateOrgWithIndustriesTest()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="CreateOrgWithIndustriesTest" duration-ms="11374" started-at="2022-02-02T01:29:19Z" finished-at="2022-02-02T01:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrgWithIndustriesTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="configAM" is-config="true" duration-ms="1836" started-at="2022-02-02T01:29:30Z" finished-at="2022-02-02T01:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="cofigAC()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="cofigAC" is-config="true" duration-ms="1598" started-at="2022-02-02T01:29:32Z" finished-at="2022-02-02T01:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.crm.comcast.orgTest.OrgTest@57baeedf]" name="configAS" is-config="true" duration-ms="0" started-at="2022-02-02T01:29:34Z" finished-at="2022-02-02T01:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.crm.comcast.orgTest.OrgTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
